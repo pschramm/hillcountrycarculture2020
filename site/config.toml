@@ -23,7 +23,7 @@ title = "Posts"
 [params.one]
 enable = true
 title = 'About the Magazine'
-body = 'Hill country Car Culture is distributed bi-monthly and complimentary. It is available at local car shops, at shows and by subscription for the cost of postage only. Cars shows and shops, vintage, classic and antique restorations, hot rods and muscle cars are covered. Even some motorcycles and older foreign cars.'
+body = 'Hill Country Car Culture is distributed bi-monthly and complimentary. It is available at local car shops, at shows and by subscription for the cost of postage only. Cars shows and shops, vintage, classic and antique restorations, hot rods and muscle cars are covered. Even some motorcycles and older foreign cars.'
 
 [[params.one.icon]]
 icon = "fa-car"
