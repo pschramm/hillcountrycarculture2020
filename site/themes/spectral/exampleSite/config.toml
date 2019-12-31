@@ -44,17 +44,17 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "images/pic01.jpg"
+img = "img/pic01.jpg"
 title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "images/pic02.jpg"
+img = "img/pic02.jpg"
 title = 'Tortor dolore feugiat<br />elementum magna'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
 [[params.two.section]]
-img = "images/pic03.jpg"
+img = "img/pic03.jpg"
 title = 'Magna primis lobortis<br />sed ullamcorper'
 body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
 
