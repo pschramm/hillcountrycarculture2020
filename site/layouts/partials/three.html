@@ -10,6 +10,7 @@
       <li class="icon {{ .icon }}">
         <h3>{{ .title | safeHTML }}</h3>
         <p>{{ .body | safeHTML }}</p>
+        <p><a href="{{ .link | safeHTML }}">{{ .link | safeHTML }}</a></p>
 			</li>
       {{ end }}
 		</ul>

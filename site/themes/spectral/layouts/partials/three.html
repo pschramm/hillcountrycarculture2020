@@ -1,5 +1,5 @@
 {{ if .Site.Params.three.enable }}
-<section id="three" class="wrapper style3 special">
+<section id="three3" class="wrapper style3 special">
 	<div class="inner">
 		<header class="major">
       <h2>{{ .Site.Params.three.title | safeHTML }}</h2>
@@ -8,9 +8,13 @@
 		<ul class="features">
       {{ range .Site.Params.three.feature }}
       <li class="icon {{ .icon }}">
-        <h3>{{ .title | safeHTML }}</h3>
+        <h3>hello? {{ .title | safeHTML }}</h3>
         <p>{{ .body | safeHTML }}</p>
-			</li>
+        <p>{{ .link | safeHTML }}</p>
+        
+         </li>
+
+         
       {{ end }}
 		</ul>
 	</div>

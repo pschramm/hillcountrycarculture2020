@@ -60,17 +60,18 @@ body = '<li>Farm to Market Classfied Ads!</li><li> Car Stories!</li><li>Upcoming
 
 [params.three]
 enable = true
-title = 'Our Sponsers'
-body = 'List Here..Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend<br />fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.'
+title = 'Our Sponsors'
+body = 'Published free in the Hill Country area thanks to these fine shops ans sponsors.'
 
 [[params.three.feature]]
-icon = "fa-paper-plane-o"
-title = "Arcu accumsan"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "facebook fa-car"
+title = "Murphos Rods and Customs"
+body = "Custom Car Restoration and Hot Rod Shop with a custom lifestyle boutique."
+link = "https://www.murphos.com/"
 
 [[params.three.feature]]
 icon = "fa-laptop"
-title = "Ac Augue Eget"
+title = "That Cool A/C Shop"
 body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
 
 [[params.three.feature]]
@@ -95,17 +96,17 @@ body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidun
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Follow us on Facebook and Instagram"
+body = "Find the latest on Hill Country Car culture by following us on social media."
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
+href = "https://www.facebook.com/hillcountrycarculture/"
+text = "Facebook"
 special = true
 
 [[params.cta.link]]
-href = "#"
-text = "Learn More"
+href = "https://www.instagram.com/hillcountrycarculture/"
+text = "Instagram"
 special = false
 
 [params.contact]
