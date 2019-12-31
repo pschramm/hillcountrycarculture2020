@@ -26,17 +26,17 @@ title = 'About the Magazine'
 body = 'Hill country Car Culture is distributed bi-monthly and complimentary. It is available at local car shops, at shows and by subscription for the cost of postage only. Cars shows and shops, vintage, classic and antique restorations, hot rods and muscle cars are covered. Even some motorcycles and older foreign cars.'
 
 [[params.one.icon]]
-icon = "fa-diamond"
+icon = "fa-car"
 style = "1"
 label = "Lorem"
 
 [[params.one.icon]]
-icon = "fa-heart-o"
+icon = "fa-motorcycle"
 style = "2"
 label = "Ipsum"
 
 [[params.one.icon]]
-icon = "fa-code"
+icon = "fa-truck"
 style = "3"
 label = "Dolor"
 
@@ -44,19 +44,19 @@ label = "Dolor"
 enable = true
 
 [[params.two.section]]
-img = "images/pic13.jpg"
-title = 'Texas Hot Rods Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "images/pic17.jpg"
+title = 'Classic Texas Hot Rods'
+body = 'Covering Cars shows and shops, vintage, classic and antique restorations, hot rods and muscle cars are covered.'
 
 [[params.two.section]]
 img = "images/pic11.jpg"
-title = 'Big Ole Texas Trucks Tortor dolore feugiat<br />elementum magna'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+title = 'Hill Country Views'
+body = 'Check us out available at local car shops, at shows and by subscription for the cost of postage only.'
 
 [[params.two.section]]
-img = "images/pic12.jpg"
-title = 'Exotic Cars Magna primis lobortis<br />sed ullamcorper'
-body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.'
+img = "images/pic18.jpg"
+title = 'Each bi-monthly and complimentary issue is also packed with'
+body = '<li>Farm to Market Classfied Ads!</li><li> Car Stories!</li><li>Upcoming Event Information!</li>'
 
 [params.three]
 enable = true
@@ -110,18 +110,18 @@ special = false
 
 [params.contact]
 enable = true
-title = "Contact"
-body = "Leave us a message."
-phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+title = "Contact the Magazine"
+body = "Leave us a message below and we'll be in touch!"
+phone = " (000 000 0000"
+address = "1234 Some Tx Road<br />Some Place, Some State 0000<br />Some Country"
+email = "email@hillcountrycarmagazine.com"
 subject = "New Submission!"
 plain = false
 
 [params.social]
 twitter = ""
-facebook = ""
-instagram = ""
+facebook = "https://www.facebook.com/hillcountrycarculture/"
+instagram = "https://www.instagram.com/hillcountrycarculture/"
 dribble = ""
 
 # language specific options
