@@ -10,7 +10,7 @@ fancyTitle = "Hill Country Car Culture" # title for frontpage, may include image
 copyright = "population2.com - Louis Beaumier III - Hill Country Car Culture"
 description = 'A Magazine celebrating car culture in the Texas Hill Country.'
 startbuttonText = "Subscribe Now"
-startbuttonLink = "#"
+startbuttonLink = "#cta"
 
 [[params.menu.main]]
 url = '/'
