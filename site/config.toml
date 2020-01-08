@@ -42,12 +42,12 @@ enable = true
 [[params.two.section]]
 img = "images/pic17.jpg"
 title = 'Classic Texas Hot Rods'
-body = 'Covering Cars shows and shops, vintage, classic and antique restorations, hot rods and muscle cars are covered.'
+body = 'Covering Cars shows and shops, vintage, classic and antique restorations, hot rods and muscle cars.'
 
 [[params.two.section]]
 img = "images/pic11.jpg"
 title = 'Hill Country Views'
-body = 'Check us out available at local car shops, at shows and by subscription for the cost of postage only.'
+body = 'Check us out! Available at local car shops, shows and by subscription for the cost of postage only.'
 
 [[params.two.section]]
 img = "images/pic18.jpg"
