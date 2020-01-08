@@ -6,7 +6,7 @@ paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Texas Hill Country Car Culture" # title for frontpage, may include image
+fancyTitle = "Hill Country Car Culture" # title for frontpage, may include image
 copyright = "population2.com - Louis Beaumier III - Hill Country Car Culture"
 description = 'A Magazine celebrating car culture in the Texas Hill Country.'
 startbuttonText = "Subscribe Now"
@@ -61,7 +61,7 @@ body = '<li>Farm to Market Classfied Ads!</li><li> Car Stories!</li><li>Upcoming
 [params.three]
 enable = true
 title = 'Our Sponsors'
-body = 'Published free in the Hill Country area thanks to these fine shops ans sponsors.'
+body = 'Published free in the Hill Country area thanks to these fine shops and sponsors.'
 
 [[params.three.feature]]
 icon = "facebook fa-car"
@@ -70,29 +70,33 @@ body = "Custom Car Restoration and Hot Rod Shop with a custom lifestyle boutique
 link = "https://www.murphos.com/"
 
 [[params.three.feature]]
-icon = "fa-laptop"
-title = "That Cool A/C Shop"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-gear"
+title = "Redline EXHAUST"
+body = "Custom Exhaust Systems and repairs Since 2010. Kerville Texas"
+link = "tel:830-367-1717"
 
 [[params.three.feature]]
-icon = "fa-code"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-space-shuttle"
+title = "Alamo Hot Rod Parts"
+body = "The LARGEST inventory of performance parts in San Antonio, South and Central Texas for all your racing needs!"
+link = "https://www.alamohotrodparts.com/"
 
 [[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-flag-checkered"
+title = "Matchrace Madness"
+body = "Lonestar Shootout.  March 28th 2020 - Little River Dragway"
+link = "https://www.littleriverdragway.com/"
 
 [[params.three.feature]]
 icon = "fa-heart-o"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Park & Hang. Tough Enuff "
+body = "Every other Monday night @ Kinda Tropical. Austin, Tx."
 
 [[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+icon = "fa-shopping-bag"
+title = "Gabriel and Son Upholstery Shop"
+body = "Award Winning Hot Rods, Customs, Vintage Car Interiors. Cars, Boats, Furniture and Vinyl Top Specialists."
+link = "tel:512-392-8072"
 
 [params.cta]
 enable = true
