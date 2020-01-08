@@ -16,10 +16,6 @@ startbuttonLink = "#"
 url = '/'
 title = "Home"
 
-[[params.menu.main]]
-url = '/posts/'
-title = "Posts"
-
 [params.one]
 enable = true
 title = 'About the Magazine'
